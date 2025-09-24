@@ -6,7 +6,8 @@
 
 ### Get in touch
 
-- [Twitter](https://x.com/arthurbdev)
+- [Telegram](https://t.me/arthurbais)
 - [LinkedIn](https://www.linkedin.com/in/arthurbais)
 - [Website](https://arthurbais.xyz/contact)
 - [arthurbworkacc@gmail.com](mailto:arthurbworkacc@gmail.com)
+- [Twitter](https://x.com/arthurbdev)
