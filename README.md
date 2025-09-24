@@ -4,7 +4,7 @@
 - Based in Odesa, Ukraine
 - <https://arthurbais.xyz>
 
-### Get in touch 📧
+### Get in touch
 
 - [Twitter](https://x.com/arthurbdev)
 - [LinkedIn](https://www.linkedin.com/in/arthurbais)
